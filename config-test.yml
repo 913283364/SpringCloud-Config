@@ -1,3 +1,3 @@
-# config-test
-Hello,config配置中心!!
+config:
+  info: Hello,config配置中心!!
 
