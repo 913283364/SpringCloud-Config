@@ -1,3 +1,2 @@
 config:
-  info: Hello,config配置中心!!
-
+  info: "master branch,SpringCloud-Config/config-test.yml version=1"
