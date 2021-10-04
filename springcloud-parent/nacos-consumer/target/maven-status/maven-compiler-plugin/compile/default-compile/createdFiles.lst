@@ -1,0 +1,4 @@
+cn\it\NacosConsumerApplication.class
+cn\it\controller\ConsumerController.class
+cn\it\feign\NasocProvider.class
+cn\it\domain\User.class

@@ -1,0 +1,6 @@
+cn\it\service\impl\UserServiceImpl.class
+cn\it\controller\UserControlle.class
+cn\it\service\UserService.class
+cn\it\dao\UserDao.class
+cn\it\ProviderServiceApplication.class
+cn\it\domain\User.class
